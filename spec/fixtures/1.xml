@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Mediainfo version="0.7.57">
+<File>
+<track type="General">
+<Complete_name>/Users/gray/Movies/Chappelle&apos;s Show/Season 01/01.avi</Complete_name>
+<Format>AVI</Format>
+<Format_Info>Audio Video Interleave</Format_Info>
+<File_size>175 MiB</File_size>
+<Duration>21mn 43s</Duration>
+<Overall_bit_rate_mode>Variable</Overall_bit_rate_mode>
+<Overall_bit_rate>1 126 Kbps</Overall_bit_rate>
+<Writing_application>Nandub v1.0rc2</Writing_application>
+<Writing_library>Nandub build 1852/release</Writing_library>
+</track>
+
+<track type="Video">
+<ID>0</ID>
+<Format>MPEG-4 Visual</Format>
+<Format_profile>Simple@L3</Format_profile>
+<Format_settings__BVOP>4</Format_settings__BVOP>
+<Format_settings__QPel>No</Format_settings__QPel>
+<Format_settings__GMC>No warppoints</Format_settings__GMC>
+<Format_settings__Matrix>Default (H.263)</Format_settings__Matrix>
+<Codec_ID>XVID</Codec_ID>
+<Codec_ID_Hint>XviD</Codec_ID_Hint>
+<Duration>21mn 43s</Duration>
+<Bit_rate>992 Kbps</Bit_rate>
+<Width>512 pixels</Width>
+<Height>384 pixels</Height>
+<Display_aspect_ratio>4:3</Display_aspect_ratio>
+<Frame_rate>29.970 fps</Frame_rate>
+<Color_space>YUV</Color_space>
+<Chroma_subsampling>4:2:0</Chroma_subsampling>
+<Bit_depth>8 bits</Bit_depth>
+<Scan_type>Progressive</Scan_type>
+<Compression_mode>Lossy</Compression_mode>
+<Bits__Pixel_Frame_>0.168</Bits__Pixel_Frame_>
+<Stream_size>154 MiB (88%)</Stream_size>
+<Writing_library>XviD 0.0.12 (UTC 2003-06-11)</Writing_library>
+</track>
+
+<track type="Audio">
+<ID>1</ID>
+<Format>MPEG Audio</Format>
+<Format_version>Version 1</Format_version>
+<Format_profile>Layer 3</Format_profile>
+<Mode>Joint stereo</Mode>
+<Mode_extension>MS Stereo</Mode_extension>
+<Codec_ID>55</Codec_ID>
+<Codec_ID_Hint>MP3</Codec_ID_Hint>
+<Duration>21mn 43s</Duration>
+<Bit_rate_mode>Variable</Bit_rate_mode>
+<Bit_rate>120 Kbps</Bit_rate>
+<Nominal_bit_rate>128 Kbps</Nominal_bit_rate>
+<Channel_s_>2 channels</Channel_s_>
+<Sampling_rate>48.0 KHz</Sampling_rate>
+<Compression_mode>Lossy</Compression_mode>
+<Stream_size>18.6 MiB (11%)</Stream_size>
+<Alignment>Aligned on interleaves</Alignment>
+<Interleave__duration>24 ms (0.72 video frame)</Interleave__duration>
+<Interleave__preload_duration>330 ms</Interleave__preload_duration>
+<Writing_library>LAME3.90.</Writing_library>
+<Encoding_settings>-m j -V 0 -q 5 -lowpass 15.3 --abr 128</Encoding_settings>
+</track>
+
+</File>
+</Mediainfo>
+
