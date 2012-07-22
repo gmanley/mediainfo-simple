@@ -1,4 +1,5 @@
 require 'nori'
+require 'virtus'
 
 $:.unshift(File.dirname(__FILE__))
 require 'mediainfo-simple/parser'

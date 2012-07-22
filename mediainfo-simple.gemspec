@@ -14,9 +14,11 @@ Gem::Specification.new do |s|
   s.description = %q{Simple ruby wrapper for the Mediainfo CLI}
 
   s.files         = `git ls-files`.split("\n")
-  s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
+  s.test_files    = `git ls-files -- spec`.split("\n")
   s.require_paths = %w[lib]
 
-  s.add_runtime_dependency('nori', ['~> 1.1.0'])
-  s.add_development_dependency('rspec')
+  s.add_runtime_dependency('nori', ['~> 1.1'])
+  s.add_runtime_dependency('virtus', ['~> 0.5'])
+  s.add_development_dependency('rspec', ['~> 2'])
+  s.add_development_dependency('pry')
 end
